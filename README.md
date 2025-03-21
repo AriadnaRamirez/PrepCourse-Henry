@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del Prep Couse de Soy Henry
+Ariadna Montserrat Ramirez Matias
+
+Este proyecto e sun aprueba de como crear un proyecto y clonarlo a mi repositorio local
